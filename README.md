@@ -49,7 +49,7 @@ This project focuses on predicting customer churn using machine learning on a sy
 
 For questions, reach out to:  
 **Müge Çakır**  
-[LinkedIn Profile]
+[LinkedIn Profile] www.linkedin.com/in/müge-çakır-0176a51a0
 
 ---
 
